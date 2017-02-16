@@ -1,0 +1,109 @@
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Store.WebUI.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Store.WebUI.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Newtonsoft.Json.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Net.Http.Formatting.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Helpers.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Http.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Http.WebHost.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Mvc.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Razor.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.WebPages.Deployment.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.WebPages.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.WebPages.Razor.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Newtonsoft.Json.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Net.Http.Formatting.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Helpers.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Http.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Http.WebHost.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Mvc.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.Razor.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.WebPages.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.WebPages.Deployment.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\System.Web.WebPages.Razor.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.Helpers.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.Http.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.Mvc.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.Razor.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.WebPages.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\obj\Debug\Store.WebUI.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\obj\Debug\Store.WebUI.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\obj\Debug\Store.WebUI.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Moq.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.Web.Common.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Store.Domain.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\WebActivator.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Store.Domain.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Moq.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.Web.Common.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.Web.Common.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.Web.Mvc.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\EntityFramework.dll
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\EntityFramework.xml
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Store\Store.WebUI\bin\Store.WebUI.dll.config
+D:\Store\Store.WebUI\bin\Store.WebUI.dll
+D:\Store\Store.WebUI\bin\Store.WebUI.pdb
+D:\Store\Store.WebUI\bin\EntityFramework.dll
+D:\Store\Store.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Store\Store.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Store\Store.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Store\Store.WebUI\bin\Moq.dll
+D:\Store\Store.WebUI\bin\Newtonsoft.Json.dll
+D:\Store\Store.WebUI\bin\Ninject.dll
+D:\Store\Store.WebUI\bin\Ninject.Web.Common.dll
+D:\Store\Store.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Store\Store.WebUI\bin\Store.Domain.dll
+D:\Store\Store.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Store\Store.WebUI\bin\System.Web.Helpers.dll
+D:\Store\Store.WebUI\bin\System.Web.Http.dll
+D:\Store\Store.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Store\Store.WebUI\bin\System.Web.Mvc.dll
+D:\Store\Store.WebUI\bin\System.Web.Razor.dll
+D:\Store\Store.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Store\Store.WebUI\bin\System.Web.WebPages.dll
+D:\Store\Store.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Store\Store.WebUI\bin\WebActivator.dll
+D:\Store\Store.WebUI\bin\Store.Domain.pdb
+D:\Store\Store.WebUI\bin\EntityFramework.xml
+D:\Store\Store.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Store\Store.WebUI\bin\Moq.xml
+D:\Store\Store.WebUI\bin\Ninject.pdb
+D:\Store\Store.WebUI\bin\Ninject.xml
+D:\Store\Store.WebUI\bin\Ninject.Web.Common.pdb
+D:\Store\Store.WebUI\bin\Ninject.Web.Common.xml
+D:\Store\Store.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Store\Store.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Store\Store.WebUI\bin\Newtonsoft.Json.xml
+D:\Store\Store.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Store\Store.WebUI\bin\System.Web.Helpers.xml
+D:\Store\Store.WebUI\bin\System.Web.Http.xml
+D:\Store\Store.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Store\Store.WebUI\bin\System.Web.Mvc.xml
+D:\Store\Store.WebUI\bin\System.Web.Razor.xml
+D:\Store\Store.WebUI\bin\System.Web.WebPages.xml
+D:\Store\Store.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Store\Store.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Store\Store.WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Store\Store.WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Store\Store.WebUI\obj\Debug\Store.WebUI.csprojResolveAssemblyReference.cache
+D:\Store\Store.WebUI\obj\Debug\Store.WebUI.dll
+D:\Store\Store.WebUI\obj\Debug\Store.WebUI.pdb

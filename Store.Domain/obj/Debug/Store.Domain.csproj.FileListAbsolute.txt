@@ -1,0 +1,46 @@
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\Store.Domain.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\Store.Domain.pdb
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.Helpers.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.Mvc.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.Razor.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.WebPages.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.Helpers.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.Mvc.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.Razor.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.WebPages.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\obj\Debug\Store.Domain.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\obj\Debug\Store.Domain.dll
+c:\users\maxim\documents\visual studio 2012\Projects\Store\Store.Domain\obj\Debug\Store.Domain.pdb
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\Store.Domain.dll.config
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Maxim\documents\visual studio 2012\Projects\Store\Store.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Store\Store.Domain\bin\Debug\Store.Domain.dll.config
+D:\Store\Store.Domain\bin\Debug\Store.Domain.dll
+D:\Store\Store.Domain\bin\Debug\Store.Domain.pdb
+D:\Store\Store.Domain\bin\Debug\EntityFramework.dll
+D:\Store\Store.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Store\Store.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Store\Store.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Store\Store.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Store\Store.Domain\bin\Debug\System.Web.Razor.dll
+D:\Store\Store.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Store\Store.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Store\Store.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Store\Store.Domain\bin\Debug\EntityFramework.xml
+D:\Store\Store.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Store\Store.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Store\Store.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Store\Store.Domain\bin\Debug\System.Web.Razor.xml
+D:\Store\Store.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Store\Store.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Store\Store.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Store\Store.Domain\obj\Debug\Store.Domain.dll
+D:\Store\Store.Domain\obj\Debug\Store.Domain.pdb
+D:\Store\Store.Domain\obj\Debug\Store.Domain.csprojResolveAssemblyReference.cache

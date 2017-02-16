@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .navbar-right {
+            float: right !important;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+
+
+
+        @Html.Action("Summary", "Cart")
+        <div>
+            <a class="navbar-brand" href="#">
+                <span class="hidden-xs">
+                    Lether store
+                    <img src="~/Content/Images/italian-flag.jpg" width="400" height="100" />
+                </span>
+
+            </a>
+        </div>
+    </div>
+    <div class="visible-xs">
+        @Html.Action("Menu", "Nav", new { horizontalNav = true })
+    </div>
+    <div class="row panel">
+        <div id="categories" class="col-sm-3 hidden-xs">
+            @Html.Action("Menu", "Nav")
+        </div>
+        <div class="col-xs-12 col-sm-8 h2">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
