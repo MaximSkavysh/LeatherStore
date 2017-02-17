@@ -11,11 +11,14 @@ namespace Store.Domain.Entities
      public class Thing
     {
         public int ThingId { get; set; }
-        [Display(Name="Name")]
+        
+        [Display(Name="Name")]  
         public string Name { get; set; }
+       
         [DataType(DataType.MultilineText)]
         [Display(Name = "Description")]
         public string Description { get; set; }
+        
         [Display(Name="Category")]
         public string Category { get; set; }
         [Display(Name="Price")]
@@ -27,4 +30,11 @@ namespace Store.Domain.Entities
         [HiddenInput(DisplayValue = false)]
         public string ImageMimeType { get; set; }
     }
+
+     public enum CatList
+     {
+         Belts,
+         Purse,
+         Shoes
+     }
 }

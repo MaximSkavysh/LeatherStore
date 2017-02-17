@@ -156,6 +156,7 @@
     <Content Include="Content\ErrorStyle.css" />
     <Content Include="Content\Images\italian-flag.jpg" />
     <Content Include="Content\Images\italian.jpg" />
+    <Content Include="Content\sliderStyle.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

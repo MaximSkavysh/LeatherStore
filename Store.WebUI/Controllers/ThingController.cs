@@ -39,7 +39,7 @@ namespace Store.WebUI.Controllers
             {
                 Things = repository.Things
                     .Where(p => category == null || p.Category == category)
-                    .OrderBy(game => game.ThingId)
+                    .OrderBy(thing => thing.ThingId)
                     .Skip((page - 1) * pageSize)
                     .Take(pageSize),
                 PagingInfo = new PagingInfo
@@ -48,7 +48,7 @@ namespace Store.WebUI.Controllers
                     ItemsPerPage = pageSize,
                     TotalItems = category == null ?
                         repository.Things.Count() :
-                        repository.Things.Where(game => game.Category == category).Count()
+                        repository.Things.Where(thing => thing.Category == category).Count()
                 },
                 CurrentCategory = category
             };

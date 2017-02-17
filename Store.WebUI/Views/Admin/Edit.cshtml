@@ -23,22 +23,35 @@
                     case "ThingId":
                     case "ImageData":
                     case "ImageMimeType":
-                        
+
                         break;
                     default:
                         <div class="form-group">
                             <label>@(property.DisplayName ?? property.PropertyName)</label>
-                            @if (property.PropertyName == "Description")
+                            
+                            @if (property.PropertyName != "Category" )
                             {
                                 @Html.TextArea(property.PropertyName, null,
-                                    new { @class = "form-control", rows = 5 })
+                                    new { @class = "form-control"})
                             }
+                            
                             else
                             {
-                                @Html.TextBox(property.PropertyName, null,
-                                    new { @class = "form-control" })
+                                @*@Html.TextArea(property.PropertyName, null,
+                                    new { @class = "form-control", }
+
+
+                                    )*@
+
+
+                                {
+                                    @Html.DropDownList("Category",
+                                                        new SelectList(Enum.GetValues(typeof(Store.Domain.Entities.CatList)))
+                                                        ,new{@class = "form-control"})
+                                }
+
                             }
-                           
+
                             @Html.ValidationMessage(property.PropertyName)
                         </div>
                             break;
