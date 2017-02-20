@@ -79,6 +79,7 @@
     <Compile Include="Concrete\EFThingRepository.cs" />
     <Compile Include="Concrete\EmailOrderProcessor.cs" />
     <Compile Include="Entities\Cart.cs" />
+    <Compile Include="Entities\News.cs" />
     <Compile Include="Entities\ShippingDetails.cs" />
     <Compile Include="Entities\Thing.cs" />
     <Compile Include="Abstract\IThingRepository.cs" />
