@@ -1,0 +1,63 @@
+﻿@{
+    Layout = null;
+}
+
+@{
+    ViewBag.Title = "About";
+    
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+    
+
+    <title>@ViewBag.Title</title>
+    <style>
+        .navbar-right {
+            float: right !important;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+
+
+
+        
+        <div>
+            <a class="navbar-brand" href="#">
+                <span class="hidden-xs">
+
+                    <svg height="100" width="500">
+                        <defs>
+                            <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+                                <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                        <ellipse cx="110" cy="60" rx="95" ry="55" fill="url(#grad1)" />
+                        <text fill="#ffffff" font-size="25" font-family="Verdana" x="70" y="66">Store</text>
+                        Sorry, your browser does not support inline SVG.
+                    </svg>
+
+                </span>
+
+            </a>
+            <ul class="nav navbar-nav">
+                @*<li class="active"><a href="#">Home</a></li>*@
+                <li><a href="About">About us</a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+
+            </ul>
+
+        </div>
+    </div>
+</body>
+</html>
