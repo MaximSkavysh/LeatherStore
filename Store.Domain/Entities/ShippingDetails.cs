@@ -30,6 +30,9 @@ namespace Store.Domain.Entities
         [Display(Name="Street")]
         public string Street { get; set; }
 
+
+
+
         [Display(Name="Flat")]
         public string Flat { get; set; }
 

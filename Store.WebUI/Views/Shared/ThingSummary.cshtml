@@ -1,10 +1,10 @@
 ﻿@model Store.Domain.Entities.Thing
 
-<div class="well">
+<div class="well" style="height:200px">
     @if (Model.ImageData != null)
     {
-        <div class="pull-left" style="margin-right: 20px">
-            <img class="img-thumbnail" width="140" height="110"
+        <div class="pull-left" style="margin-right: 40px"  >
+            <img class="img-thumbnail" width="170" height="170"
                  src="@Url.Action("GetImage", "Thing",
                 new { Model.ThingId })" />
         </div>

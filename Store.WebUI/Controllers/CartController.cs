@@ -21,12 +21,9 @@ namespace Store.WebUI.Controllers
             orderProcessor = processor;
         }
 
-        public ViewResult Checkout(Cart cart, ShippingDetails shippingDetails)
-        {
-            return View(new ShippingDetails());
-        }
+        
 
-
+        // an error --orderProcessor.ProcessOrder(cart, shippingDetails);
         [HttpPost]
         public ViewResult CheckOut(Cart cart, ShippingDetails shippingDetails)
         {
@@ -84,6 +81,11 @@ namespace Store.WebUI.Controllers
         public PartialViewResult Summary(Cart cart)
         {
             return PartialView(cart);
+        }
+
+        public ViewResult Checkout(Cart cart, ShippingDetails shippingDetails)
+        {
+            return View(new ShippingDetails());
         }
 
        

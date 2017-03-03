@@ -10,14 +10,16 @@ using Store.Domain.Abstract;
 
 namespace Store.Domain.Concrete
 {
+    
+
     public class EmailSettings
     {
         public string MailToAddress = "maximgen666@gmail.com";
         public string MailFromAddress = "maximgen666@mail.ru";
         public bool UseSsl = true;
-        public string Username = "MySmtpUsername";
-        public string Password = "MySmtpPassword";
-        public string ServerName = "smtp.example.com";
+        public string Username = "maximgen666@mail.ru";
+        public string Password = "asdfgh2jkl";
+        public string ServerName = "smtp.gmail.com";
         public int ServerPort = 587;
         public bool WriteAsFile = true;
         public string FileLocation = @"c:\store_emails";
@@ -47,7 +49,7 @@ namespace Store.Domain.Concrete
                     smtpClient.DeliveryMethod =
                         SmtpDeliveryMethod.SpecifiedPickupDirectory;
                     smtpClient.PickupDirectoryLocation = emailSettings.FileLocation;
-                    smtpClient.EnableSsl = false;
+                    smtpClient.EnableSsl = true;
                 }
 
                 StringBuilder body = new StringBuilder()
@@ -75,7 +77,7 @@ namespace Store.Domain.Concrete
                     "New order deliverd", body.ToString());
                 if (emailSettings.WriteAsFile)
                 {
-                    mailMessage.BodyEncoding = Encoding.UTF8;
+                    mailMessage.BodyEncoding = Encoding.ASCII;
 
                 }
 
